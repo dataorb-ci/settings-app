@@ -1,7 +1,7 @@
 {
   "type": "app",
-  "name": "settings",
-  "title": "Settings",
+  "name": "settings-pro",
+  "title": "Settings Pro",
   "coreApp": true,
   "version": "29.14.20",
   "description": ""

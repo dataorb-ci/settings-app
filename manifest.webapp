@@ -1,7 +1,7 @@
 {
   "appType": "APP",
-  "short_name": "settings",
-  "name": "Settings",
+  "short_name": "settings-pro",
+  "name": "Settings Pro",
   "description": "",
   "version": "29.14.20",
   "core_app": true,
